@@ -45,7 +45,7 @@
       "address": "Mannat manzil",
       "phone": "77565857",
       "email": "shah@kingKhan.com",
-      "status": "inactive",
+      "status": "active",
       "id": "1756"
     },
     {
@@ -53,7 +53,7 @@
       "address": "bhopla chowk",
       "phone": "9636396",
       "email": "Nilu@bollywood.co",
-      "status": "active",
+      "status": "inactive",
       "id": "63cf"
     },
     {
@@ -61,7 +61,7 @@
       "address": "California",
       "phone": "98615",
       "email": "mark@meta.com",
-      "status": "inactive",
+      "status": "active",
       "id": "ceb3"
     },
     {
@@ -78,7 +78,7 @@
       "address": "jharkhand",
       "phone": "648135",
       "email": "jamshed@industrialist.com",
-      "status": "active"
+      "status": "inactive"
     },
     {
       "name": "bageshwar",
@@ -94,7 +94,7 @@
       "address": "new delhi",
       "phone": "648",
       "email": "DY@supreme.com",
-      "status": ""
+      "status": "active"
     },
     {
       "id": "46c4",
@@ -110,7 +110,7 @@
       "address": "Caltech",
       "phone": "66448488",
       "email": "Sheldon@heartsAmy.com",
-      "status": "active"
+      "status": "inactive"
     }
   ]
 }
